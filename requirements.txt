@@ -1,0 +1,16 @@
+# requirements.txt
+numpy
+pandas==2.2.2
+matplotlib
+matplotlib-venn
+seaborn
+networkx
+pybliometrics
+tqdm
+bibtexparser
+requests
+clarivate-wos-starter-python-client @ git+https://github.com/clarivate/wosstarter_python_client.git
+litstudy
+plotly
+scikit-learn
+
